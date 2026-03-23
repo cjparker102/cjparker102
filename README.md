@@ -11,7 +11,7 @@
 **$ whoami**
 > Christopher Parker — McLean, VA (Washington DC Area)
 > Identity & Access professional at **ID.me** — building AI-powered IAM tools
-> 8+ years enterprise IT · 60,000+ users supported · TAMU MS Computer Science
+> 8+ years enterprise IT · 500+ users supported · TAMU MS Computer Science
 
 </div>
 
@@ -19,11 +19,41 @@
 
 ```bash
 $ cat status.txt
-● CURRENTLY    → IT Support Analyst @ ID.me — identity verification platform
+● CURRENTLY    → IT Support Analyst @ ID.me — federal identity verification platform
 ● LOCATION     → McLean, VA // Washington DC Area
 ● STUDYING     → MS Computer Science @ Texas A&M University (2025-2026)
 ● MISSION      → IAM Engineer — combining identity expertise with AI automation
 ● CONTACT      → iam@cjparker102.dev
+```
+
+---
+
+```bash
+$ cat ./idme.txt   // current role deep dive
+```
+
+```
+[ ID.me — IT Support Analyst ]  Aug 2025 - Present · McLean, VA
+// Federal identity verification platform serving VA, IRS, SSA and more
+
+OKTA ADMINISTRATION
+  » User lifecycle — activation, suspension, account recovery
+  » Group membership management and access assignments
+  » MFA troubleshooting — resetting and fixing authentication factors
+  » Access reporting and escalation to IAM admin team
+
+DEVICE & ENDPOINT MANAGEMENT
+  » JAMF Pro — Mac fleet management for 500+ employees
+  » Device enrollment, compliance enforcement, MDM policies
+  » Remote software deployment and configuration
+  » Asset tracking via Asset Panda
+
+OPERATIONS
+  » JIRA — ticket management and workflow tracking
+  » VPN and remote access support
+  » Endpoint security and compliance monitoring
+  » IT documentation and runbook creation
+  » Reduced ticket resolution time through process automation
 ```
 
 ---
@@ -88,43 +118,17 @@ $ git log ./experience/ --oneline
 ---
 
 ```bash
-$ ls ./tech_stack/
-```
-
-**`// IDENTITY & ACCESS`**
-
-![Okta](https://img.shields.io/badge/Okta-007DC1?style=for-the-badge&logo=okta&logoColor=white)
-![AWS IAM](https://img.shields.io/badge/AWS_IAM-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Azure AD](https://img.shields.io/badge/Azure_AD-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logo=windows&logoColor=white)
-
-**`// LANGUAGES & AUTOMATION`**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-**`// PLATFORMS & TOOLS`**
-
-![ServiceNow](https://img.shields.io/badge/ServiceNow-62D84E?style=for-the-badge&logo=servicenow&logoColor=white)
-![Microsoft Purview](https://img.shields.io/badge/Microsoft_Purview-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-**`// SECURITY`**
-
-![SAML](https://img.shields.io/badge/SAML-FF6B35?style=for-the-badge&logoColor=white)
-![OAuth](https://img.shields.io/badge/OAuth_2.0-3C3C3C?style=for-the-badge&logoColor=white)
-![Zero Trust](https://img.shields.io/badge/Zero_Trust-6B3FA0?style=for-the-badge&logoColor=white)
-
----
-
-```bash
 $ ls ./projects/
 ```
 
 ```
+📁 it-command-dashboard/              [INTERNAL — ID.me]
+   → AI-powered IT operations dashboard built for ID.me
+   → JIRA · Confluence · OpsGenie · Claude API integrations
+   → AI ticket creation, response generation, similar ticket search
+   → Pending department-wide deployment
+   → Stack: Python · Node.js · HTML/CSS/JS · Claude API
+
 📁 okta-access-reviewer/              [ACTIVE]
    → AI-powered tool that analyzes Okta access patterns
    → Flags inactive users, over-provisioned accounts, anomalies
@@ -166,8 +170,8 @@ learning = [
 
 ```bash
 $ cat ./languages.txt
-● English                    → Native or bilingual proficiency
-● American Sign Language     → Native or bilingual proficiency
+● English                → Native or bilingual proficiency
+● American Sign Language → Native or bilingual proficiency
 ```
 
 ---
@@ -185,8 +189,8 @@ $ cat ./connect.txt
 
 ```
 // 8+ years IT · ID.me · Apple · IBM · U.S. SBA · 9 certifications
-// Building AI-powered IAM tools in the Washington DC security corridor
-// Let's build something secure. 🔐
+// Okta admin · JAMF Pro · building AI-powered IAM tools
+// Washington DC security corridor · Let's build something secure. 🔐
 ```
 
 </div>
