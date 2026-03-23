@@ -110,6 +110,7 @@ $ git log ./experience/ --oneline
 [2013-2017]     Problem Solver / ICQA     @ Amazon          // Breinigsville, PA
 ```
 
+> `// ID.me — Okta admin · JAMF Pro 500+ users · built AI ops dashboard pending deployment`
 > `// Apple — trained 30 engineers · improved compliance by 25%`
 > `// IBM — Active Directory for 60,000+ users`
 > `// SBA — automated FOIA processing, cutting time by 70%`
