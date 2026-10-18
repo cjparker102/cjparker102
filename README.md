@@ -70,9 +70,12 @@ $ ls ./certifications/
 |---|---|---|
 | `Okta_Certified_Professional` | Okta | ✅ Dec 2025 |
 | `CompTIA_Security+` | CompTIA | ✅ Active |
+| `CompTIA_Network+` | CompTIA | ✅ Active |
+| `CompTIA_A+` | CompTIA | ✅ Active |
 | `LPI_Linux_Essentials` | LPI | ✅ Lifetime |
 | `EC-Council_Certified_Encryption_Specialist` | EC-Council | ✅ Earned |
 | `CIW_Web_Security_Specialist` | CIW | ✅ Earned |
+| `Lean_Six_Sigma_Black_Belt` | Educate 360 | ✅ Feb 2025 |
 
 ---
 
