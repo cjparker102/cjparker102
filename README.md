@@ -2,16 +2,16 @@
 
 ```
 ╔══════════════════════════════════════════════════════════════════╗
-║          [ CJPARKER102.DEV ] // IDENTITY & ACCESS ENGINEER       ║
+║     { CJPARKER102.DEV } // IDENTITY · SECURITY · AUTOMATION      ║
 ╚══════════════════════════════════════════════════════════════════╝
 ```
 
-### `// IAM_ENGINEER` · `// SECURITY_SPECIALIST` · `// AI_BUILDER`
+### `// IDENTITY_&_ACCESS` · `// SECURITY` · `// AI_BUILDER`
 
 **$ whoami**
-> Christopher Parker — McLean, VA (Washington DC Area)
-> Identity & Access professional at **ID.me** — building AI-powered IAM tools
-> 8+ years enterprise IT · 500+ users supported · TAMU MS Computer Science
+> Christopher Parker · McLean, VA (Washington DC Area)<br>
+> IT Support Analyst with an IAM focus at **ID.me**, building AI-powered IT and identity tools<br>
+> In IT since 2017 · Okta Certified Professional · Security+ · TAMU MS Computer Science
 
 </div>
 
@@ -19,10 +19,10 @@
 
 ```bash
 $ cat status.txt
-● CURRENTLY    → IT Support Analyst @ ID.me — federal identity verification platform
+● CURRENTLY    → IT Support Analyst (IAM focus) @ ID.me, a federal identity verification platform
 ● LOCATION     → McLean, VA // Washington DC Area
-● STUDYING     → MS Computer Science @ Texas A&M University (2025-2026)
-● MISSION      → IAM Engineer — combining identity expertise with AI automation
+● STUDYING     → MS Computer Science @ Texas A&M University (graduating Dec 2026)
+● GOAL         → IAM and security engineering, long-term DevSecOps
 ● CONTACT      → iam@cjparker102.dev
 ```
 
@@ -33,27 +33,31 @@ $ cat ./idme.txt   // current role deep dive
 ```
 
 ```
-[ ID.me — IT Support Analyst ]  Aug 2025 - Present · McLean, VA
-// Federal identity verification platform serving VA, IRS, SSA and more
+[ ID.me · IT Support Analyst, IAM Focus ]  Aug 2025 - Present · McLean, VA
+
+WHAT I BUILT
+  » IT Command Center: AI-powered IT operations web app on Google Cloud Run
+    (Python, Node.js, n8n, Claude API). Connects Jira Service Management,
+    Confluence, JAMF, Okta, and OpsGenie to sort, answer, and route tickets.
+    Used across the IT department; weekly SLA compliance went from 70-80%
+    to 90-100%. Every change goes through GitHub and security review.
+  » Troubleshooting knowledge base: suggests fixes from past tickets and
+    drafts new Confluence guides that I review before they publish.
+  » Okta MCP proxy: Okta doesn't log requests made through MCP, so the proxy
+    sits between Claude and Okta and logs every request to Google SecOps.
+    Unusual activity gets flagged for the SOC team.
+  » Glean IT help agent that answers employees' IT questions in our
+    Ask-IT Slack channel.
 
 OKTA ADMINISTRATION
-  » User lifecycle — activation, suspension, account recovery
-  » Group membership management and access assignments
-  » MFA troubleshooting — resetting and fixing authentication factors
-  » Access reporting and escalation to IAM admin team
+  » 1,100+ users and 20+ SaaS apps
+  » Joiner / mover / leaver, MFA for everyone, SAML SSO, access reviews
+  » Sign-in and MFA troubleshooting
 
 DEVICE & ENDPOINT MANAGEMENT
-  » JAMF Pro — Mac fleet management for 500+ employees
-  » Device enrollment, compliance enforcement, MDM policies
-  » Remote software deployment and configuration
-  » Asset tracking via Asset Panda
-
-OPERATIONS
-  » JIRA — ticket management and workflow tracking
-  » VPN and remote access support
-  » Endpoint security and compliance monitoring
-  » IT documentation and runbook creation
-  » Reduced ticket resolution time through process automation
+  » 500+ Macs in JAMF Pro at 95%+ compliance
+  » Windows devices in Microsoft Intune
+  » Enrollment, configuration profiles, software deployment, patching
 ```
 
 ---
@@ -66,13 +70,9 @@ $ ls ./certifications/
 |---|---|---|
 | `Okta_Certified_Professional` | Okta | ✅ Dec 2025 |
 | `CompTIA_Security+` | CompTIA | ✅ Active |
-| `CompTIA_Network+` | CompTIA | ✅ Active |
-| `CompTIA_A+` | CompTIA | ✅ Active |
-| `CompTIA_Secure_Infrastructure_Specialist` | CompTIA | ✅ Active |
-| `EC-Council_Certified_Encryption_Specialist` | EC-Council | ✅ Active |
-| `CIW_Web_Security_Specialist` | CIW | ✅ Active |
-| `Lean_Six_Sigma_Black_Belt` | Educate 360 | ✅ Feb 2025 |
-| `LPI_Linux_Essentials` | LPI | ✅ Active |
+| `LPI_Linux_Essentials` | LPI | ✅ Lifetime |
+| `EC-Council_Certified_Encryption_Specialist` | EC-Council | ✅ Earned |
+| `CIW_Web_Security_Specialist` | CIW | ✅ Earned |
 
 ---
 
@@ -82,16 +82,16 @@ $ ls ./education/
 
 ```
 📚 Texas A&M University
-   → Master of Computer Science (MCS)
-   → 2025 - 2026 // IN PROGRESS
+   → Master of Computer Science
+   → Graduating Dec 2026 // GPA 3.7
 
 📚 Sam Houston State University
    → BS Cybersecurity
-   → 2022 - 2024 // COMPLETED
+   → Dec 2024 // GPA 3.6 · Dean's List · President's Honor Roll
 
 📚 Houston Community College
-   → AA Multidisciplinary Studies (Computer Science Focus)
-   → 2021 - 2022 // COMPLETED
+   → AA Multidisciplinary Studies
+   → May 2022 // GPA 4.0
 ```
 
 ---
@@ -101,20 +101,19 @@ $ git log ./experience/ --oneline
 ```
 
 ```
-[2025-present]  IT Support Analyst        @ ID.me           // McLean, VA
-[2024]          IT Support Intern         @ U.S. SBA        // Washington, DC
-[2018-2021]     Technical Support Eng.    @ Apple           // Austin, TX
-[2018]          Deskside Support Tech.    @ IBM/Coupang     // Mountain View, CA
-[2017-2018]     IT Support Specialist     @ SCL Health      // Denver, CO
-[2017]          IT Advanced Repair Agent  @ Geek Squad      // Denver, CO
-[2013-2017]     Problem Solver / ICQA     @ Amazon          // Breinigsville, PA
+[2025-present]  IT Support Analyst, IAM Focus         @ ID.me        // McLean, VA
+[2024]          Cybersecurity Intern, Office of CIO   @ U.S. SBA     // Washington, DC
+[2018-2021]     Technical Support Engineer, TV Ops    @ Apple        // Austin, TX
+[2018]          IT Support & Systems Administrator    @ IBM          // Mountain View, CA
+[2017-2018]     IT Support Specialist                 @ SCL Health   // Wheat Ridge, CO
+[2017]          IT Advanced Repair Agent              @ Geek Squad   // Denver, CO
+[2013-2017]     ICQA Problem Solver                   @ Amazon       // Breinigsville, PA
 ```
 
-> `// ID.me — Okta admin · JAMF Pro 500+ users · built AI ops dashboard pending deployment`
-> `// Apple — trained 30 engineers · improved compliance by 25%`
-> `// IBM — Active Directory for 60,000+ users`
-> `// SBA — automated FOIA processing, cutting time by 70%`
-> `// SCL Health — 33 hospitals · 400+ tickets/month · 90% resolved without escalation`
+> `// ID.me: built the IT Command Center, Okta MCP proxy, and Glean IT agent`
+> `// Apple: chosen to move to Austin and train a new 30-person team · 1,000+ titles for the Apple TV+ launch, zero delivery errors`
+> `// IBM: built a Linux server on VMware to bring idle office display screens back online · built a SharePoint ticketing system`
+> `// SBA: joined leadership meetings with the director and CIO · drafted a plan to automate FOIA request work`
 
 ---
 
@@ -123,31 +122,29 @@ $ ls ./projects/
 ```
 
 ```
-📁 it-command-dashboard/              [INTERNAL — ID.me]
-   → AI-powered IT operations dashboard built for ID.me
-   → JIRA · Confluence · OpsGenie · Claude API integrations
-   → AI ticket creation, response generation, similar ticket search
-   → Pending department-wide deployment
-   → Stack: Python · Node.js · HTML/CSS/JS · Claude API
+📁 IAM TOOLKIT: three repos, one workflow
 
-📁 okta-access-reviewer/              [ACTIVE]
-   → AI-powered tool that analyzes Okta access patterns
-   → Flags inactive users, over-provisioned accounts, anomalies
+   okta-as-code            → PREVENT
+   → Okta groups, apps, MFA policies, and admin roles defined in Terraform
+   → Pull-request review, CI plan on every PR, drift detection
+   → Stack: Terraform · HCL · GitHub Actions
+
+   okta-access-reviewer    → DETECT
+   → Pulls users, groups, apps, and admin roles from Okta
+   → Claude flags inactive, over-provisioned, and risky admin accounts
    → Stack: Python · Okta SDK · Claude API
 
-📁 iam-offboarding-assistant/         [COMING SOON]
-   → Intelligent offboarding automation
-   → AI-generated deprovisioning checklists
-   → Stack: Python · Okta · AWS IAM
+   okta-chaos-generator    → PRACTICE
+   → Builds 100-200 test users with 17 types of hidden IAM problems
+   → CTF-style: find them, then check your score with reveal.py
+   → Stack: Python · Okta SDK · Faker
 
-📁 okta-policy-explainer/             [COMING SOON]
-   → Paste any Okta policy → AI explains it in plain English
-   → Built for audits, compliance, and onboarding
-   → Stack: Python · Claude API
+📁 it-command-center/                 [INTERNAL · ID.me]
+   → AI IT operations platform, live department-wide (see idme.txt)
 
-📁 dotfiles/
-   → My Mac developer environment setup
-   → Homebrew · Zsh · Oh My Zsh · IAM dev tools
+📁 cjparker102-dev/
+   → My portfolio site: cjparker102.dev
+   → Stack: Next.js · TypeScript
 ```
 
 ---
@@ -158,12 +155,11 @@ $ cat ./currently_learning.txt
 
 ```python
 learning = [
-    "Terraform for IAM infrastructure as code",
     "Python automation with Okta SDK",
-    "AWS IAM roles, policies, and SCP",
+    "AWS IAM roles, policies, and SCPs",
     "AI integration with identity workflows",
     "Zero Trust architecture patterns",
-    "MS Computer Science @ Texas A&M (active)"
+    "MS Computer Science @ Texas A&M (graduating Dec 2026)"
 ]
 ```
 
@@ -189,9 +185,9 @@ $ cat ./connect.txt
 [![Website](https://img.shields.io/badge/cjparker102.dev-6B3FA0?style=for-the-badge&logo=googlechrome&logoColor=white)](https://cjparker102.dev)
 
 ```
-// 8+ years IT · ID.me · Apple · IBM · U.S. SBA · 9 certifications
-// Okta admin · JAMF Pro · building AI-powered IAM tools
-// Washington DC security corridor · Let's build something secure. 🔐
+// In IT since 2017 · ID.me · Apple · IBM · U.S. SBA
+// Okta · JAMF Pro · building AI-powered IT and identity tools
+// Washington DC area · Let's build something secure. 🔐
 ```
 
 </div>
