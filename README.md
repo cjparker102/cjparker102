@@ -40,12 +40,14 @@ WHAT I BUILT
     (Python, Node.js, n8n, Claude API). Connects Jira Service Management,
     Confluence, JAMF, Okta, and OpsGenie to sort, answer, and route tickets.
     Used across the IT department; weekly SLA compliance went from 70-80%
-    to 90-100%. Every change goes through GitHub and security review.
+    to 90-100%. Changes go through GitHub; it passed a security review, and
+    security-sensitive changes go back through review.
   » Troubleshooting knowledge base: suggests fixes from past tickets and
     drafts new Confluence guides that I review before they publish.
-  » Okta MCP proxy: Okta doesn't log requests made through MCP, so the proxy
-    sits between Claude and Okta and logs every request to Google SecOps.
-    Unusual activity gets flagged for the SOC team.
+  » Okta MCP proxy: in our setup, Okta wasn't reporting what Claude accessed
+    through MCP, so the proxy sits between Claude and Okta, records everything
+    Claude tries to access, and sends it to Google SecOps. Unusual activity
+    gets flagged for the SOC team.
   » Glean IT help agent that answers employees' IT questions in our
     Ask-IT Slack channel.
 
